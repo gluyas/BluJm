@@ -32,7 +32,7 @@ public class Game {
  
         //begins game loop 
         this.runGame();
-    }//this is a test
+    }
 
     private void doKey(String key) {
         switch (key) {

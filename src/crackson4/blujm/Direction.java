@@ -1,3 +1,5 @@
+package crackson4.blujm;
+
 /**For any object that needs direction in a 2D space. Includes a neutral direction for weird situations.
  * @author Daniel
  *

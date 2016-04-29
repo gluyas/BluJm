@@ -1,9 +1,6 @@
-import ecs100.*;
+package crackson4.blujm.level;
 
-import java.awt.*;
-import java.awt.image.BufferedImage;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import ecs100.*;
 
 /**
  * Created by Marc on 29/04/2016.

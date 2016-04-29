@@ -1,3 +1,7 @@
+package crackson4.blujm.level;
+
+import crackson4.blujm.level.Tile;
+
 /**
  * Created by Marc on 29/04/2016.
  */

@@ -1,5 +1,7 @@
+package crackson4.blujm.item;
+
 /**
- * Player body part
+ * crackson4.blujm.entity.Player body part
  * @author Daniel
  *
  */

@@ -1,14 +1,16 @@
+package crackson4.blujm;
+
+import crackson4.blujm.entity.Player;
+import crackson4.blujm.level.Level;
 import ecs100.*;
 import java.awt.*;
-import java.io.*;
-import java.util.*;
 
 public class Game {
 
 	private Player player = null;
     private Level level = null;
 	
-    /** Construct a new Game object:
+    /** Construct a new crackson4.blujm.Game object:
      * - draw the game state
      * - create the player
      * - set up the GUI (the buttons)
@@ -23,7 +25,7 @@ public class Game {
     	//UI.setMouseListener(this::doMouse);
        // UI.addButton("Hop",  this::doHop);
         //UI.addButton("Back", this::doHopBack);
-        //UI.addButton("New Game", this::doNewGame);
+        //UI.addButton("New crackson4.blujm.Game", this::doNewGame);
     	//UI.addButton("Line",()->{this.currentAction = "Line";});  lambda example. can place multiple statements in block
         //UI.addSlider("Car Speed", 1, 25, 3, this::doSpeedControl);  //adds a slider to control car speed
         //UI.addButton("Quit", UI::quit);

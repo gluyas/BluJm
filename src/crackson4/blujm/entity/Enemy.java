@@ -1,6 +1,8 @@
-import ecs100.UI;
+package crackson4.blujm.entity;
 
-import java.awt.Image;
+import crackson4.blujm.Direction;
+import crackson4.blujm.level.Level;
+import ecs100.UI;
 
 public class Enemy extends Entity{
 	private boolean isDead = false;

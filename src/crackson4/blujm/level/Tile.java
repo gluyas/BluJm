@@ -1,3 +1,5 @@
+package crackson4.blujm.level;
+
 /**
  * Created by Marc on 29/04/2016.
  */

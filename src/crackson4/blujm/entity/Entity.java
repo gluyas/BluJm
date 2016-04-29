@@ -1,3 +1,8 @@
+package crackson4.blujm.entity;
+
+import crackson4.blujm.Direction;
+import crackson4.blujm.level.Level;
+
 /**
  * For moving objects on the screen
  * @author Daniel

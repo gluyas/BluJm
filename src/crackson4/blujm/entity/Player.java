@@ -1,3 +1,10 @@
+package crackson4.blujm.entity;
+
+import crackson4.blujm.Direction;
+import crackson4.blujm.item.Arm;
+import crackson4.blujm.item.Head;
+import crackson4.blujm.item.Leg;
+import crackson4.blujm.level.Level;
 import ecs100.UI;
 import java.awt.Image;
 

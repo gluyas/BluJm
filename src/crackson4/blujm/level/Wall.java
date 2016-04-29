@@ -1,3 +1,5 @@
+package crackson4.blujm.level;
+
 import ecs100.*;
 
 import java.awt.*;
